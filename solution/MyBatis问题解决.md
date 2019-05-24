@@ -1,3 +1,5 @@
+## 关于SqlSessionFactoryBean中的mapperLocation属性的配置问题
+2019年5月24日10:34:15<br/>
 ```go
 <!-- 让spring管理sqlsessionfactory 使用mybatis和spring整合包中的 -->
 <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
